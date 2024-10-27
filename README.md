@@ -8,6 +8,6 @@
 4. You will invest  your savings in a production company. You have two choices: "Marvel Studios" and "DC Comics". Which company would you bet on? This is an open-ended question. Define your own metrics to measure which one is a better investment opportunity and defend your analysis.
 
 ![SQL](Assets/download.jfif)
-![Python](Assets/download (1).jfif)
+![Python](Assets/python.jfif)
 
 
