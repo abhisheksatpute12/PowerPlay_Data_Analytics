@@ -9,5 +9,6 @@
 
 ![SQL](Assets/download.jfif)
 ![Python](Assets/python.jfif)
-
+## Recommendation
+ Based on the analysis above, both "Marvel Studios" and "DC Comics" have produced 10 movies each. I calculated profit and profit percentage from the given dataset. I found that movies such as "The Spirit" and "The Losers," produced by DC Comics, had high budgets but generated very low revenue. 
 
